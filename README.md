@@ -1,7 +1,7 @@
 # Deliverable: Virtual environments
 
-Instructor: Carlos Mejia
-Student: Gabriela Sánchez
+### Instructor: Carlos Mejia
+### Student: Gabriela Sánchez
 
 Virtual environments allow the isolated execution of a project given certain conditions, generally libraries or packages with certain versions.
 
